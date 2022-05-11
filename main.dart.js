@@ -56588,7 +56588,7 @@ o=A.eA(A.ba(q,A.d7(A.b([A.d7(A.b([A.df("Created By Navaneeth Amarnath.",A.bz(q,q
 return new A.l0(n,new A.rW(r,o,q),3,q)},
 $S:326}
 A.E3.prototype={
-J(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e="Projects",d="Ticket Booking System Full Stack",c="Password Generator (Mini Project)",b="ML\\DL Models",a="AI Chatbot",a0="/image/bkg.jpg",a1=t.w
+J(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e="Projects",d="Ticket Booking System Full Stack",c="Password Generator (Mini Project)",b="ML\\DL Models",a="AI Chatbot",a0="/image/bkg.png",a1=t.w
 if(a3.L(a1).f.a.a<1000){s=A.dB(20)
 a1=a3.L(a1).f
 r=this.c
