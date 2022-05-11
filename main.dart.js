@@ -56523,7 +56523,7 @@ r.f=s.e
 r.r=s.f
 r.x=s.r},
 J(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=h.x,e=t.w,d=b.L(e).f
-d=A.ba(g,A.ajL(new A.nB(new A.mP("/image/bkg.jpg",g,g),b.L(e).f.a.a,400,B.bd,g)),g,g,g,f,g,g,d.a.a)
+d=A.ba(g,A.ajL(new A.nB(new A.mP("/image/projs.png",g,g),b.L(e).f.a.a,400,B.bd,g)),g,g,g,f,g,g,d.a.a)
 f=A.aj(255,255,255,255)
 e=h.y
 s=A.b3(g,360,g)
@@ -56588,7 +56588,7 @@ o=A.eA(A.ba(q,A.d7(A.b([A.d7(A.b([A.df("Created By Navaneeth Amarnath.",A.bz(q,q
 return new A.l0(n,new A.rW(r,o,q),3,q)},
 $S:326}
 A.E3.prototype={
-J(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e="Projects",d="Ticket Booking System Full Stack",c="Password Generator (Mini Project)",b="ML\\DL Models",a="AI Chatbot",a0="/image/projs.png",a1=t.w
+J(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e="Projects",d="Ticket Booking System Full Stack",c="Password Generator (Mini Project)",b="ML\\DL Models",a="AI Chatbot",a0="/image/bkg.jpg",a1=t.w
 if(a3.L(a1).f.a.a<1000){s=A.dB(20)
 a1=a3.L(a1).f
 r=this.c
