@@ -56490,7 +56490,7 @@ s.toString
 A.a6v(s,0,B.rE,A.bW(0,0,2))},
 $S:0}
 A.By.prototype={
-J(a,b){var s,r,q,p,o,n,m,l,k=null,j="Expertise",i="/image/logos.jpg",h=t.w
+J(a,b){var s,r,q,p,o,n,m,l,k=null,j="Expertise",i="/image/logos.png",h=t.w
 if(b.L(h).f.a.a<1000){s=A.dB(20)
 h=b.L(h).f
 r=this.c
